@@ -79,6 +79,7 @@ const Header = styled.header`
   justify-content: center;
   align-items: center;
   margin-bottom: 25px;
+  width: 100%;
 `;
 
 const Avatar = styled.img`
